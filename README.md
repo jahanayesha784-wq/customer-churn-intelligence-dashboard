@@ -1,6 +1,6 @@
 # 📉 Customer Churn Prediction Dashboard
 
-http://localhost:8501/
+https://customer-churn-intelligence-dashboard-zthdwnypalbprdfx7oern8.streamlit.app/
 
 An **end-to-end Machine Learning project** that predicts whether a telecom customer is likely to **churn (leave the service)** using a trained model and an **interactive Streamlit dashboard**.
 
