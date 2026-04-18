@@ -1,5 +1,7 @@
 # 📉 Customer Churn Prediction Dashboard
 
+http://localhost:8501/
+
 An **end-to-end Machine Learning project** that predicts whether a telecom customer is likely to **churn (leave the service)** using a trained model and an **interactive Streamlit dashboard**.
 
 This project demonstrates the full **data science workflow**, including **data preprocessing, model training, evaluation, and deployment** as a web application.
