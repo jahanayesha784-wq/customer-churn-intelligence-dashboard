@@ -312,22 +312,4 @@ Steps:
 
 ---
 
-# 📜 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
-# 👨‍💻 Author
-
-**Your Name**
-
-Data Science Student
-Passionate about Machine Learning and AI
-
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
-
----
-
 ⭐ If you like this project, please give it a star on GitHub!
