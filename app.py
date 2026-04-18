@@ -14,7 +14,8 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-MODEL_PATH = "models/churn_advanced_model.pkl"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = os.path.join(BASE_DIR, "models", "churn_advanced_model.pkl")
 DATA_PATH = "data/WA_Fn-UseC_-Telco-Customer-Churn.csv"
 HISTORY_PATH = "models/prediction_history.csv"
 COMPARISON_PATH = "models/model_comparison.csv"
