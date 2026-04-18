@@ -1,0 +1,13 @@
+Best Parameters: {'classifier__max_depth': 10, 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 200}
+Mean CV ROC-AUC: 0.8461
+Test Accuracy: 0.7615
+ROC-AUC: 0.8396
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.78      0.83      1035
+           1       0.54      0.71      0.61       374
+
+    accuracy                           0.76      1409
+   macro avg       0.71      0.75      0.72      1409
+weighted avg       0.79      0.76      0.77      1409

@@ -1,0 +1,4 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Prediction,Probability,Threshold,RiskLevel,Segment,Actions
+Female,0,Yes,Yes,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1500.0,Stay,0.2574,0.5,Low,Watchlist,Offer 1-year contract incentive | Promote auto-pay discount
+Female,0,Yes,Yes,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1500.0,Stay,0.2574,Low,Watchlist,The Uncertain Subscriber,Offer a discounted annual contract. | Incentivize auto-pay migration with cashback.
+Female,0,Yes,Yes,12,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.0,1500.0,Stay,0.2574,Low,Watchlist,The Uncertain Subscriber,Moderate,72.08,Offer discounted annual contract | Push auto-pay migration offer
